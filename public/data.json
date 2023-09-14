@@ -1,0 +1,75 @@
+[
+   {
+     "id": 1,
+     "img": "https://i.ibb.co/XjJhPdd/Rectangle-2-2.png",
+     "course_name": "Introduction to Programming",
+     "credit": 3,
+     "price": 200,
+     "details": "Learn the basics of programming with this introductory course. No prior experience required."
+   },
+   {
+     "id": 2,
+     "img": "https://i.ibb.co/wNy8Rsq/Rectangle-3.png",
+     "course_name": "Web Development",
+     "credit": 4,
+     "price": 250,
+     "details": "Start your journey in web development with this comprehensive course covering HTML, CSS, and JavaScript."
+   },
+   {
+     "id": 3,
+     "img": "https://i.ibb.co/S0rt3n2/Rectangle-2.png",
+     "course_name": "Data Analysis with Python",
+     "credit": 3,
+     "price": 180,
+     "details": "Master data analysis techniques using Python and popular libraries like Pandas and NumPy."
+   },
+   {
+     "id": 4,
+     "img": "https://i.ibb.co/XLWj4m4/Rectangle-2-1.png",
+     "course_name": "Machine Learning Basics",
+     "credit": 4,
+     "price": 300,
+     "details": "Dive into the world of machine learning and build your own predictive models with Python."
+   },
+   {
+     "id": 5,
+     "img": "https://i.ibb.co/3hHyG9V/Rectangle-3-1.png",
+     "course_name": "Digital Marketing ",
+     "credit": 2,
+     "price": 150,
+     "details": "Learn the essentials of digital marketing, including SEO, SEM, and social media marketing."
+   },
+   {
+     "id": 6,
+     "img": "https://i.ibb.co/mRPr5KL/Rectangle-2-4.png",
+     "course_name": "Graphic Design Essentials",
+     "credit_in_hour": 3,
+     "price": 200,
+     "details": "Explore the principles of graphic design and create stunning visuals with industry-standard software."
+   },
+   {
+     "id": 7,
+     "img": "https://i.ibb.co/vwgBqwf/Rectangle-2-5.png",
+     "course_name": "Financial Planning and Investment",
+     "credit": 3,
+     "price": 200,
+     "details": "Understand personal finance, investment strategies, and plan for a secure financial future."
+   },
+   {
+     "id": 8,
+     "img": "https://i.ibb.co/YdjzScC/Rectangle-2-6.png",
+     "course_name": "Business Ethics and Leadership",
+     "credit": 2,
+     "price": 150,
+     "details": "Develop ethical leadership skills and learn to make responsible business decisions."
+   },
+   {
+     "id": 9,
+     "img": "https://i.ibb.co/HGqVmBC/Rectangle-2-3.png",
+     "course_name": "Artificial Intelligence Applications",
+     "credit": 4,
+     "price": 300,
+     "details": "Explore real-world applications of AI, including robotics, natural language processing, and more."
+   }
+ ]
+ 
