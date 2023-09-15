@@ -10,7 +10,7 @@
    {
      "id": 2,
      "img": "https://i.ibb.co/wNy8Rsq/Rectangle-3.png",
-     "course_name": "Web Development",
+     "course_name": "Data Structure",
      "credit": 4,
      "price": 250,
      "details": "Start your journey in web development with this comprehensive course covering HTML, CSS, and JavaScript."
@@ -26,7 +26,7 @@
    {
      "id": 4,
      "img": "https://i.ibb.co/XLWj4m4/Rectangle-2-1.png",
-     "course_name": "Machine Learning Basics",
+     "course_name": "Database",
      "credit": 4,
      "price": 300,
      "details": "Dive into the world of machine learning and build your own predictive models with Python."
@@ -34,7 +34,7 @@
    {
      "id": 5,
      "img": "https://i.ibb.co/3hHyG9V/Rectangle-3-1.png",
-     "course_name": "Digital Marketing ",
+     "course_name": "AWS",
      "credit": 2,
      "price": 150,
      "details": "Learn the essentials of digital marketing, including SEO, SEM, and social media marketing."
@@ -42,7 +42,7 @@
    {
      "id": 6,
      "img": "https://i.ibb.co/mRPr5KL/Rectangle-2-4.png",
-     "course_name": "Graphic Design Essentials",
+     "course_name": "Machine Learning Basics",
      "credit": 3,
      "price": 200,
      "details": "Explore the principles of graphic design and create stunning visuals with industry-standard software."
@@ -50,7 +50,7 @@
    {
      "id": 7,
      "img": "https://i.ibb.co/vwgBqwf/Rectangle-2-5.png",
-     "course_name": "Financial Planning and Investment",
+     "course_name": "Softweer Engineering",
      "credit": 3,
      "price": 200,
      "details": "Understand personal finance, investment strategies, and plan for a secure financial future."
@@ -58,7 +58,7 @@
    {
      "id": 8,
      "img": "https://i.ibb.co/YdjzScC/Rectangle-2-6.png",
-     "course_name": "Business Ethics and Leadership",
+     "course_name": "Artificial Intelligence",
      "credit": 2,
      "price": 150,
      "details": "Develop ethical leadership skills and learn to make responsible business decisions."
@@ -66,7 +66,7 @@
    {
      "id": 9,
      "img": "https://i.ibb.co/HGqVmBC/Rectangle-2-3.png",
-     "course_name": "Artificial Intelligence Applications",
+     "course_name": "Data Structure and Algorithm",
      "credit": 4,
      "price": 300,
      "details": "Explore real-world applications of AI, including robotics, natural language processing, and more."

@@ -3,7 +3,7 @@
 /* eslint-disable react/prop-types */
 
 const Card = ({ card, handleSelect }) => {
-   const { id, img, course_name, credit, price, details } = card;
+   const { img, course_name, credit, price, details } = card;
    return (
       <div className="p-4 bg-white rounded-xl">
          <img src={img} className="mb-4" />
@@ -20,7 +20,7 @@ const Card = ({ card, handleSelect }) => {
             </svg>
             <p className="text-[#1c1b1b99] font-medium">Credit: {credit}hr</p>
          </div>
-         <button onClick={() => { handleSelect(card, credit, price) }} className="bg-[#2F80ED] rounded-lg py-2 text-white text-lg font-semibold w-full">Select</button>
+         <button onClick={() => { handleSelect(card, price) }} className="bg-[#2F80ED] rounded-lg py-2 text-white text-lg font-semibold w-full">Select</button>
       </div>
    );
 };
