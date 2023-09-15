@@ -43,7 +43,7 @@
      "id": 6,
      "img": "https://i.ibb.co/mRPr5KL/Rectangle-2-4.png",
      "course_name": "Graphic Design Essentials",
-     "credit_in_hour": 3,
+     "credit": 3,
      "price": 200,
      "details": "Explore the principles of graphic design and create stunning visuals with industry-standard software."
    },
