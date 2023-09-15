@@ -7,8 +7,8 @@ const Card = ({ card, handleSelect }) => {
    return (
       <div className="p-4 bg-white rounded-xl">
          <img src={img} className="mb-4" />
-         <h2 className="text-[#1C1B1B] text-lg font-semibold mt-3">{course_name}</h2>
-         <p className="text-[#1c1b1b99] text-sm mb-4">{details}</p>
+         <h2 className="text-[#1C1B1B] text-lg line-clamp-1 font-semibold mt-3">{course_name}</h2>
+         <p className="text-[#1c1b1b99] text-sm line-clamp-3 mb-4">{details}</p>
          <div className="flex items-center gap-3 mb-6">
             <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                <path d="M12 1V23" stroke="#1C1B1B" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

@@ -23,7 +23,7 @@ function App() {
       })
       const remaining = 20 - hour;
       if (hour > 20) {
-        return toast.error('your maximum credit hour is 20. your cant add more')
+        return toast.error('your maximum credit hour is 20. you cant add more')
       }
       else {
         if (remaining < 0) {
